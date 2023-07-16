@@ -1,0 +1,1130 @@
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.baml
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.g.cs
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\manu1.g.cs
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\manu1.baml
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.g.cs
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\manu1.g.cs
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.baml
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\manu1.baml
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+C:\Users\Jayaweera\Desktop\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.g.cs
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\manu1.g.cs
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.baml
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\manu1.baml
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+C:\Users\chath\Desktop\New folder\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\manu1.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.baml
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\manu1.baml
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group Project 2.0\Group2\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\AddUserInterface.baml
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\addstudent.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\manu1.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\addstudent.baml
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\manu1.baml
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.g.cs
+C:\Users\chath\Desktop\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.baml
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\addstudent.g.cs
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.g.cs
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\manu1.g.cs
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\addstudent.baml
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.baml
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\manu1.baml
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+F:\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\addstudent.g.cs
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.g.cs
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\manu1.g.cs
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\addstudent.baml
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.baml
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\View\manu1.baml
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+F:\GUI Project\Group\Group Project 3.0\Group2\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\View\addstudent.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\View\manu1.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\View\addstudent.baml
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.baml
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\View\manu1.baml
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\Results.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.0\groupproject2\obj\Debug\net6.0-windows\Results.baml
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\Results.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\View\addstudent.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\View\manu1.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\Results.baml
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\View\addstudent.baml
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.baml
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\View\manu1.baml
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+F:\GUI Project\Group\Save Files\Group Project 3.1\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\Results.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\View\addstudent.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\View\manu1.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\Results.baml
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\View\addstudent.baml
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.baml
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\View\manu1.baml
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+F:\GUI Project\Group\Save Files\Group Project 3.2\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\Results.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\addstudent.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\manu1.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\Results.baml
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\addstudent.baml
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.baml
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\manu1.baml
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+F:\GUI Project\Group\Save Files\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.exe
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.deps.json
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.runtimeconfig.json
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\Results.g.cs
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\addstudent.g.cs
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.g.cs
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\manu1.g.cs
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.cache
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2_MarkupCompile.lref
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\Results.baml
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\addstudent.baml
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\AdminPage.baml
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\View\manu1.baml
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.g.resources
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.AssemblyInfo.cs
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.csproj.CopyComplete
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\refint\groupproject2.dll
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.pdb
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\groupproject2.genruntimeconfig.cache
+C:\Users\user\Desktop\Group Project 3.3\groupproject2\obj\Debug\net6.0-windows\ref\groupproject2.dll
